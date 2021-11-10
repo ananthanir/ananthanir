@@ -1,7 +1,7 @@
 👋 Hi, I’m @ananthanir
-👀 I’m interested in Reinforced Learning, Blockchain    
-🌱 I’m currently learning Reinforced Learning, Blockchain  
-💞️ I’m looking to collaborate on Blockchain or Reinforced Learning and Magic🔮    
+👀 I’m interested in Blockchain    
+🌱 I’m currently doing R&D in Blockchain  
+💞️ I’m looking to collaborate on Blockchain or Magic🔮    
 
 <!---
 ananthanir/ananthanir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
