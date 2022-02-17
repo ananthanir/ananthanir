@@ -12,6 +12,8 @@
   &nbsp; ✍️ &nbsp;  In my free time, I pursue 3D Design and Read Light Novels.  
   &nbsp; 💬 &nbsp; Feel free to reach out to me for collaboration or learning purpose.
   
+  ### I Like
+   Rakudai Kishi no Kyabarurii - Mr. Right
   ### 🛠 &nbsp;Web App Development Tech Stack
 
   &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
