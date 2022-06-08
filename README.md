@@ -8,7 +8,7 @@
   &nbsp; 👀 &nbsp; I’m interested in AI & Blockchain Technology    
   &nbsp; 💻 &nbsp; I like to build things, I like to learn how something works and build it from scratch.  
   &nbsp; 🎓 &nbsp; I have done M.Phil Degree in Computer Science from CUSAT.  
-  &nbsp; 🌱 &nbsp; I'm on track for learning more about MARL in AI.  
+  &nbsp; 🌱 &nbsp; I'm on track for learning more about usage of GraphML for Blockchain Analysis.  
   &nbsp; ✍️ &nbsp;  In my free time, I pursue 3D Design and Read Light Novels.  
   &nbsp; 💬 &nbsp; Feel free to reach out to me for collaboration or learning purpose.
   
