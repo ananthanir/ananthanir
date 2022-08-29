@@ -1,7 +1,7 @@
 <p align="center">
   <hr>
 
-  <img alt="Night Coding" src="https://github.com/ananthanir/ananthanir/blob/main/assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Ananthan</h2>
+  <h2><img alt="Night Coding" src="https://github.com/ananthanir/ananthanir/blob/main/assets/wave.gif" width='40' align="left"/>Hey there! I'm Ananthan</h2>
 
 
 
