@@ -11,11 +11,11 @@
   <img align="right" alt="GIF" src="https://github.com/ananthanir/ananthanir/blob/main/assets/coding.gif" width="350" height="250" />
 
   &nbsp; 👀 &nbsp; I’m interested in AI & Blockchain Technology    
-  &nbsp; 💻 &nbsp; I like to build things, learn how something works & build it from scratch.  
+  &nbsp; 💻 &nbsp; I like to build things, learn how things works & build em.  
   &nbsp; 🎓 &nbsp; I have done M.Phil Degree in Computer Science from CUSAT.  
-  &nbsp; 🌱 &nbsp; Currently learning more about usage of GraphML for Blockchain Analysis.  
+  &nbsp; 🌱 &nbsp; Currently working on GraphML for Blockchain Data Analysis.  
   &nbsp; ✍️ &nbsp; In my free time, I pursue 3D Design and Read Light Novels.  
-  &nbsp; 💬 &nbsp; Feel free to reach out to me for collaboration or learning purpose.
+  &nbsp; 💬 &nbsp; Feel free to reach out to me.
   
 
   <br><br>
