@@ -16,7 +16,7 @@
   &nbsp; 🌱 &nbsp; Currently working on GraphML for Blockchain Data Analysis.  
   &nbsp; ✍️ &nbsp; In my free time, I pursue 3D Design and Read Light Novels.  
   &nbsp; 💬 &nbsp; Feel free to reach out to me.  <br><br>
-  &nbsp; [![Twitter](https://img.shields.io/twitter/follow/id_ananthan?style=social)](https://twitter.com/id_ananthan)
+  &nbsp; [![Twitter](https://img.shields.io/twitter/follow/ananthanigr?style=social)](https://twitter.com/ananthanigr)
   
 
   <br><br>
