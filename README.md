@@ -6,10 +6,10 @@
   
   ### 🌟 Player Card 🌟
 
-  &nbsp; 👀 &nbsp; I’m interested in AI & Blockchain Technology    
-  &nbsp; 💻 &nbsp; I like to build things, learn how things works & build em.  
+  &nbsp; 👀 &nbsp; I’m interested in Blockchain Technology    
+  &nbsp; 💻 &nbsp; I like to build things.  
   &nbsp; 🎓 &nbsp; I have done M.Phil Degree in Computer Science from CUSAT.  
-  &nbsp; 🌱 &nbsp; Currently working on GraphML for Blockchain Data Analysis.  
+  &nbsp; 🌱 &nbsp; Currently working on Blockchain Data Analysis.  
   &nbsp; ✍️ &nbsp; In my free time, I pursue 3D Design and Read Light Novels.  
   &nbsp; 💬 &nbsp; Feel free to reach out to me.  <br><br>
   
