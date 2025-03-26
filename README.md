@@ -4,7 +4,7 @@
 
   <img align="left" alt="GIF" src="https://github.com/ananthanir/ananthanir/blob/main/assets/coding.gif" width="350" height="250" /><br>
   
-  ## 🌟 Player Card 🌟
+  ### 🌟 Player Card 🌟
 
   &nbsp; 👀 &nbsp; I’m interested in AI & Blockchain Technology    
   &nbsp; 💻 &nbsp; I like to build things, learn how things works & build em.  
