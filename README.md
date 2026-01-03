@@ -1,6 +1,6 @@
 
   # 🎮 Player One Online: Ananthan
-  ### Researcher • Builder • Blockchain Engineer
+  ### INTP - Dreamer
   
   ## 🧾 Player Profile
 
