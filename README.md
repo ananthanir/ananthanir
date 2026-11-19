@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <a href="https://t.me/ananthanir"><kbd>&nbsp;✈️ Telegram · @ananthanir&nbsp;</kbd></a>
+  <a href="https://t.me/ananthanir"><kbd>&nbsp;➤ Telegram · @ananthanir&nbsp;</kbd></a>
 </p>
 
 </div>
